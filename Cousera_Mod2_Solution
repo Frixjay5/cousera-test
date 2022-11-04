@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <title>Responsive layout</title>
+   <meta name="viewport" content="width=device-width,
+   Initial-scale=1">
+ <link rel="stylesheet" type="text/css"
+ href="style.css">
+  </head>
+   <body>
+    <h1>MENU</h1>
+
+     <div class="col-lg-4 col-md-6 col-sm-12">
+       <div class="box">
+       <p class="content-name
+name1">Chicken</p>
+       <p class="content">Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Vivamus mi augue, 
+viverra sit amet ultricies at, 
+vulputate id lorem. Nulla facilisi.</p>
+ </div>
+ </div>
+ <div class="col-lg-4 col-md-6 col-sm-12">
+ <div class="box">
+     <p class="content-name
+name2">Beef</p>
+  <p class="content">Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit. Vivamus mi augue, 
+viverra sit amet ultricies at, vulputate id lorem.
+ Nulla facilisi.
+</p>
+</div>
+</div>
+ <div class="col-lg-4 col-md-12 col-sm-12">
+  <div class="box">
+    <p class="content-name
+name3">Sushi</p>
+     <p class="content">Lorem ipsum dolor sit amet,
+ consectetur adipiscing elit. Vivamus mi augue,
+ viverra sit amet ultricies at,
+ vulputate id lorem. Nulla facilisi.</p>
+ </div>
+ </div>
+ </body>
+</html>
